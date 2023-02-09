@@ -35,7 +35,7 @@ An assignment operator assigns a value to its left operand based on the value of
 
 `console.log(x++); // => 7`
 
-`console.log(x);`// => 8`
+`console.log(x);// => 8`
 
 В префиксной форме оператор инкремент сразу увеличивает значение своего операнда на единицу:
 
